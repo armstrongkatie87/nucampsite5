@@ -1,3 +1,5 @@
+//copy and pasted from campsiteRouter.js the founf campsite and replaced with partner
+
 const express = require('express');
 const partnerRouter = express.Router();
 

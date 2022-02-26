@@ -1,3 +1,5 @@
+//copy and pasted from campsiteRouter then found campsite and replaced with promotion
+
 const express = require('express');
 const promotionRouter = express.Router();
 
